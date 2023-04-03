@@ -84,4 +84,4 @@ Once you're done exploring, let's head to the next section and start our actual 
 
 ### 🚨 Progress report!
 
-Post a screenshot of your terminal with the output of `deploy.js` in #progress to show you've gotten your local env working :)!
+Post a screenshot of your terminal with the output of `deploy.js` in the group chat with caption _#progress_ to show you've gotten your local env working 😃!
