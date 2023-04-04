@@ -172,4 +172,4 @@ Changing around little things like the character will make you feel more like it
 
 ### 🚨 Progress report!
 
-Post a screenshot in #progress introducing one of your characters -- perhaps post their image + let us know their name and amount of AD/HP they have!! 
+Post a screenshot with the caption #progress introducing one of your characters -- perhaps post their image + let us know their name and amount of AD/HP they have!! 

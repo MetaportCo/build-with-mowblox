@@ -30,13 +30,13 @@ Remember, the blockchain has no owner. It's just a bunch of computers around the
 
 When we deploy our contract, we need to tell **all those** miners, "hey, this is a new smart contract, please add my smart contract to the blockchain and then tell everyone else about it as well".
 
-This is where [QuickNode](https://www.quicknode.com/?utm_source=buildspace&utm_campaign=generic&utm_content=sign-up&utm_medium=buildspace) comes in.
+This is where [QuickNode](https://www.quicknode.com/?utm_source=mowblox&utm_campaign=generic&utm_content=sign-up&utm_medium=mowblox) comes in.
 
 QuickNode essentially helps us broadcast our contract creation transaction so that it can be picked up by miners as quickly as possible. Once the transaction is mined, it is then broadcasted to the blockchain as a legit transaction. From there, everyone updates their copy of the blockchain.
 
 This is complicated. And, don't worry if you don't fully understand it. As you write more code and actually build this app, it'll naturally make more sense.
 
-So, make an account with QuickNode [here](https://www.quicknode.com/?utm_source=buildspace&utm_campaign=generic&utm_content=sign-up&utm_medium=buildspace).
+So, make an account with QuickNode [here](https://www.quicknode.com/?utm_source=mowblox&utm_campaign=generic&utm_content=sign-up&utm_medium=mowblox).
 
 And then check out my video below!
 
@@ -73,7 +73,7 @@ You have a few faucets to choose from:
 | Official Goerli  | https://goerlifaucet.com              | 0.25            | 24 hrs       |
 | MyCrypto         | https://app.mycrypto.com/faucet       | 0.01            | None         |
 
-Note: For MyCrypto, you'll need to connect your wallet, make an account, and then click that same link **again** to request funds. The buildspace faucet is pretty reliable as well, just make sure Metamask is on the Goerli network :).
+Note: For MyCrypto, you'll need to connect your wallet, make an account, and then click that same link **again** to request funds.
 
 ### 🙃 Having trouble getting Testnet ETH?
 
@@ -275,6 +275,5 @@ On top of that, as the creator of the original Pikachu NFTs — I can charge a r
 Okay — lets get to actually programming our game logic now :).
 
 ### 🚨 Progress report!
-*Pls do this or Farza will be sad :(*
 
-Post a screenshot in #progress of your epic NFTs on Pixxiti. Perhaps even tweet it out and tell the world what you've done! Be sure to give @_buildspace tag as well :). We love to see people's tweets, it always gives us a dose of dopamine/motivation. Plus -- your tweet could help get new people to get into web3. You never know who may see it and get inspired to start hacking!!!
+Post a screenshot with the caption #progress of your epic NFTs on Pixxiti. Perhaps even tweet it out and tell the world what you've done! Be sure to give @mowblox tag as well :).
