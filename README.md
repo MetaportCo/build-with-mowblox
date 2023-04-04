@@ -1,5 +1,5 @@
 <h1 align="left">Build with Mowblox</h1>
-<h4>smart contract learning projects</h4>
+<h4>Learn by doing: Smart contracts and d</h4>
 
 ## Intro ✨
 
@@ -15,5 +15,9 @@ ____________________
 
 <br><br>
 
+### Table of Contents
+- [NFT Game](https://github.com/MetaportCo/build-with-mowblox/blob/main/NFT_Game/Section_0/Lesson_1_What_Are_We_Building.md)
+
+<br><br>
 Learn more: [Mowblox](https://mowblox.com)<br><br>
 _Original lessons sourced from [buildspace](https://github.com/buildspace/buildspace-projects)_<br>
